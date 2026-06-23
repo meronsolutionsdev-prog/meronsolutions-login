@@ -37,9 +37,8 @@ body {
 .logo {
     display: block;
     height: auto;
-    image-rendering: -webkit-optimize-contrast;
-    max-height: 10rem;
-    max-width: min(10rem, 42vw);
+    max-height: 12.5rem;
+    max-width: min(12.5rem, 48vw);
     width: auto;
 }
 
@@ -55,8 +54,8 @@ body {
 
 @media (max-width: 40rem) {
     .logo {
-        max-height: 7.5rem;
-        max-width: min(7.5rem, 52vw);
+        max-height: 9.5rem;
+        max-width: min(9.5rem, 58vw);
     }
 
     .tagline {
