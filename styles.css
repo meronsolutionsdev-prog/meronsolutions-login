@@ -37,8 +37,9 @@ body {
 .logo {
     display: block;
     height: auto;
-    max-width: min(18rem, 72vw);
-    width: 100%;
+    max-height: 3.25rem;
+    max-width: min(22rem, 88vw);
+    width: auto;
 }
 
 .tagline {
